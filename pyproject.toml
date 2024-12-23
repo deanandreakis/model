@@ -1,0 +1,13 @@
+[project]
+name = "model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "ruff>=0.8.4",
+    "scikit-learn>=1.6.0",
+    "torch>=2.5.1",
+    "torchvision>=0.20.1",
+]
